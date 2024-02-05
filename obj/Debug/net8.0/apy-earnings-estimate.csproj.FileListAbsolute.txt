@@ -1,0 +1,14 @@
+/Users/timromero/apy-earnings-estimate/obj/Debug/net8.0/apy-earnings-estimate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timromero/apy-earnings-estimate/obj/Debug/net8.0/apy-earnings-estimate.AssemblyInfoInputs.cache
+/Users/timromero/apy-earnings-estimate/obj/Debug/net8.0/apy-earnings-estimate.AssemblyInfo.cs
+/Users/timromero/apy-earnings-estimate/obj/Debug/net8.0/apy-earnings-estimate.csproj.CoreCompileInputs.cache
+/Users/timromero/apy-earnings-estimate/bin/Debug/net8.0/apy-earnings-estimate
+/Users/timromero/apy-earnings-estimate/bin/Debug/net8.0/apy-earnings-estimate.deps.json
+/Users/timromero/apy-earnings-estimate/bin/Debug/net8.0/apy-earnings-estimate.runtimeconfig.json
+/Users/timromero/apy-earnings-estimate/bin/Debug/net8.0/apy-earnings-estimate.dll
+/Users/timromero/apy-earnings-estimate/bin/Debug/net8.0/apy-earnings-estimate.pdb
+/Users/timromero/apy-earnings-estimate/obj/Debug/net8.0/apy-earnings-estimate.dll
+/Users/timromero/apy-earnings-estimate/obj/Debug/net8.0/refint/apy-earnings-estimate.dll
+/Users/timromero/apy-earnings-estimate/obj/Debug/net8.0/apy-earnings-estimate.pdb
+/Users/timromero/apy-earnings-estimate/obj/Debug/net8.0/apy-earnings-estimate.genruntimeconfig.cache
+/Users/timromero/apy-earnings-estimate/obj/Debug/net8.0/ref/apy-earnings-estimate.dll

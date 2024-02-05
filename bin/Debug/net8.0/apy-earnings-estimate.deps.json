@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "apy-earnings-estimate/1.0.0": {
+        "runtime": {
+          "apy-earnings-estimate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "apy-earnings-estimate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
